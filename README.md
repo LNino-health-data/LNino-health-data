@@ -9,6 +9,7 @@ I'm now building hands-on skills in data analysis and informatics tools,
 combining my clinical background with a growing technical toolkit.
 
 **Currently learning:** Excel · SQL · Python · R · Tableau
+
 **Background:** Pediatrics · Clinical Epidemiology · Patient Safety
 
 ## What I'm working on
