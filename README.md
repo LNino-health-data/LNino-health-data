@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Laura Nino 👋
+
+## Health Informatics & Data Analytics
+
+Building skills in health data analysis — turning complex
+health datasets into clear, actionable insights.
+
+**Currently learning:** Excel · SQL · Python · R · Tableau
+**Background:** [e.g. Clinical background, transitioning to health informatics]
+
+## Projects
+| Project | Tools | Status |
+|---------|-------|--------|
+| CDC Chronic Disease Dashboard | Excel | 🔄 In progress |
+
+## Connect
+https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
