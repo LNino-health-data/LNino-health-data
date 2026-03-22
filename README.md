@@ -22,7 +22,7 @@ Building skills in health data analysis — turning complex
 health datasets into clear, actionable insights.
 
 **Currently learning:** Excel · SQL · Python · R · Tableau
-**Background:** [e.g. Clinical background, transitioning to health informatics]
+**Background:** [Pediatrician, MSc Clinical Epidemiology, transitioning to health informatics]
 
 ## Projects
 | Project | Tools | Status |
