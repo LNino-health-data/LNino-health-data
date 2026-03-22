@@ -24,8 +24,11 @@ clinically, not just technically.
 
 ## Areas of interest
 🏥 Patient safety & quality improvement
+
 📊 Public health & epidemiology
+
 👶 Pediatric health data
+
 🌍 Resource-limited settings
 
 ## Connect
